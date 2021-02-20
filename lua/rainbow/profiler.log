@@ -1,0 +1,23 @@
+> Total time: 0.000304 s
+--------------------------------------------------------------------------------------
+| FILE                : FUNCTION                    : LINE   : TIME   : %     : #    |
+--------------------------------------------------------------------------------------
+| ...cker/start/nvim-t: get_capture_matches         :   169  : 0.0002 : 81.6  :    1 |
+| ...cker/start/nvim-t: iter_group_results          :   104  : 0.0001 : 17.4  :    1 |
+--------------------------------------------------------------------------------------
+| /usr/share/nvim/runt: iter_matches                :   400  : ~      : ~     :    1 |
+| ...cker/start/nvim-t: (for generator)             :   131  : ~      : ~     :    1 |
+| /usr/share/nvim/runt: matches                     :   408  : ~      : ~     :    1 |
+| /usr/share/nvim/runt: get_parser                  :    75  : ~      : ~     :    1 |
+| ...er/start/nvim-tre: has_parser                  :   496  : ~      : ~     :    1 |
+| /usr/share/nvim/runt: register_cbs                :   424  : ~      : ~     :    1 |
+| /usr/share/nvim/runt: parse                       :    94  : ~      : ~     :    1 |
+| /usr/share/nvim/runt: value_or_node_range         :   347  : ~      : ~     :    1 |
+| ...cker/start/nvim-t: get_query                   :    67  : ~      : ~     :    1 |
+| ...er/start/nvim-tre: get_buf_lang                :   453  : ~      : ~     :    1 |
+| .../site/pack/packer: stop                        :   225  : ~      : ~     :    1 |
+| /usr/share/nvim/runt: new_match_metadata          :    76  : ~      : ~     :    1 |
+| ...er/start/nvim-tre: get_buf_lang                :   523  : ~      : ~     :    1 |
+| ...cker/start/nvim-t: iter_group_results          :   223  : ~      : ~     :    1 |
+| ...er/start/nvim-tre: get_parser                  :   505  : ~      : ~     :    1 |
+--------------------------------------------------------------------------------------
